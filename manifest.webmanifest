@@ -1,0 +1,9 @@
+{
+  "name": "Angel & Fitra Check-in",
+  "short_name": "AF Check-in",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f8f6f1",
+  "theme_color": "#17324d",
+  "icons": []
+}
